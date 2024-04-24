@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { WebComponent } from './web.componenet';
+import { WebComponent } from './web.component';
 
 describe('New4whereComponent', () => {
   let component: WebComponent;
