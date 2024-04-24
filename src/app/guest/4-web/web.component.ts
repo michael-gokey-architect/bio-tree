@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 })
 export class WebComponent {
   // Add your code here
-  // web.component
+
   constructor() {
     // Constructor logic goes here
   }

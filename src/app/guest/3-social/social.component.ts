@@ -6,5 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./social.component.css']
 })
 export class SocialComponent {
+  // Add your code here
 
+  constructor() {
+    // Constructor logic goes here
+  }
+
+  ngOnInit() {
+    // Initialization logic goes here
+  }
+
+  // Add more methods and properties as needed
 }

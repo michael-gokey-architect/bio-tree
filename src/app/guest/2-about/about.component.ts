@@ -6,5 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./about.component.css']
 })
 export class AboutComponent {
+  // Add your code here
 
+  constructor() {
+    // Constructor logic goes here
+  }
+
+  ngOnInit() {
+    // Initialization logic goes here
+  }
+
+  // Add more methods and properties as needed
 }
