@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'bio-tree';
+
+  ngOnInit(): void {
+    // Initialization logic goes here
+  }
 }
