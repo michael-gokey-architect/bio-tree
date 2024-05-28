@@ -34,3 +34,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 https://www.linkedin.com/pulse/deploying-your-angular-app-aws-s3-step-by-step-guide-cengkuru-michael-wnsrf/
 https://betterprogramming.pub/deploying-an-angular-7-application-to-aws-s3-cloudfront-serving-https-requests-f59a806c57b2
+
+
+
+TODO: Sunny
+https://dev.to/this-is-angular/angular-15-what-happened-to-environmentts-koh
+https://medium.com/yavar/building-an-angular-application-in-various-environments-using-angular-cli-and-server-18f94067154b
