@@ -28,3 +28,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 [Understanding Model, Class, and Interface in Angular](https://medium.com/@snehalv.2010/understanding-model-class-and-interface-in-angular-953e9fe668c0)
+
+
+## Deployment steps to S3 With CloudFront
+
+https://www.linkedin.com/pulse/deploying-your-angular-app-aws-s3-step-by-step-guide-cengkuru-michael-wnsrf/
+https://betterprogramming.pub/deploying-an-angular-7-application-to-aws-s3-cloudfront-serving-https-requests-f59a806c57b2
