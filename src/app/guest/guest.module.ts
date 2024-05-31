@@ -10,6 +10,7 @@ import { WelcomeBackComponent } from './welcome-back/welcome-back.component';
 import { GuestComponent } from './guest/guest.component';
 import { GuestViewComponent } from './guest-view/guest-view.component';
 import { FooterComponent } from './footer/footer.component';
+import { GuestLandingComponent } from './guest-landing/guest-landing.component';
 
 
 
@@ -23,7 +24,8 @@ import { FooterComponent } from './footer/footer.component';
     GuestViewComponent,
     GuestComponent,
     WelcomeBackComponent,
-    FooterComponent
+    FooterComponent,
+    GuestLandingComponent
   ],
   imports: [
     CommonModule
